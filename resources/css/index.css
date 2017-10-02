@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+  display: block;
+}
+a {
+  color: teal;
+}
+p{
+  color: grey;
+}
